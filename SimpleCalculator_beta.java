@@ -14,12 +14,13 @@ public class SimpleCalculator
 
     String firstNumber = ""; 
     String secondNumber = "" ; 
+    String input = "" ;
     boolean whiteSpaceCounter = false; 
 
     void compute(Scanner sc)
     {
         // accpeting value
-        String input = sc.nextLine().trim();
+        input = sc.nextLine().trim();
 
         for(int i = 0 ; i < input.length() ; i++)
         {
@@ -145,7 +146,7 @@ public class SimpleCalculator
 
     void display()
     {
-        System.out.println(solution); 
+        System.out.println(input + " = " + solution); 
     }
 
     void initialize()
@@ -174,6 +175,7 @@ public class SimpleCalculator
 
         while(thread == 0)
         {
+            System.out.print("Enter mathematical expression: "); 
             obj.compute(sc); 
             obj.display(); 
             obj.initialize();  
