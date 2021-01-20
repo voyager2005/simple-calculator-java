@@ -7,6 +7,9 @@
 ## Hello There 👋
 This is a simple calculator program that I have written in two languages. Please do check our and Help me achieve the things that I want to work on next:
 
+## License and copyright
+© Akshat G
+<br />Licensed under [MIT license](LICENSE)
 
 ## Things that I want to work on: 
 - [x] make the calculator compute the power of two numbers
