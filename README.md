@@ -4,9 +4,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/voyager2005/simple-calculator?logo=Github&style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/voyager2005/simple-calculator?logo=Github&style=plastic)
 
+## Hello There 👋
+This is a simple calculator program that I have written in two languages. Please do check our and Help me achieve the things that I want to work on next:
 
-## Things that I want to work on:
-### SimpleCalculator_beta: 
+
+## Things that I want to work on: 
 - [x] make the calculator compute the power of two numbers
 - [ ] make the program so that it can process blackets
 - [ ] make the program so that it can process multiple oprators
