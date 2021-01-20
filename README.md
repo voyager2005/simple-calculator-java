@@ -1,5 +1,9 @@
 # simple-calculator
 
+![GitHub issues](https://img.shields.io/github/issues/voyager2005/simple-calculator?logo=Github&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/voyager2005/simple-calculator?logo=Github&style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/voyager2005/simple-calculator?logo=Github&style=plastic)
+
 
 ## Things that I want to work on:
 ### SimpleCalculator_beta: 
