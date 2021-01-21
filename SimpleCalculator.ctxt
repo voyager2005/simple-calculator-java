@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SimpleCalculator
+comment1.params=sc
+comment1.target=void\ compute(java.util.Scanner)
+comment10.params=
+comment10.target=void\ initialize()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=double\ addition(java.lang.String,\ java.lang.String)
+comment3.params=a\ b
+comment3.target=double\ subtraction(java.lang.String,\ java.lang.String)
+comment4.params=a\ b
+comment4.target=double\ multlipication(java.lang.String,\ java.lang.String)
+comment5.params=a\ b
+comment5.target=double\ division(java.lang.String,\ java.lang.String)
+comment6.params=a
+comment6.target=double\ squareRoot(java.lang.String)
+comment7.params=a\ b
+comment7.target=double\ power(java.lang.String,\ java.lang.String)
+comment8.params=a\ b
+comment8.target=double\ remainder(java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+numComments=12
